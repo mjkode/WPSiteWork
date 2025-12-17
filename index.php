@@ -30,7 +30,8 @@
 						<li><a href="#about" data-after="About">About</a></li>
 						<li><a href="#contact" data-after="Contact">Contact</a></li>
 						<li><a href="https://www.wpsitework.com" data-after="Wordpress">Wordpress?</a></li>
-						<li><a href="javascript:window.open('https://www.wpsitework.com/JS_Location/', 'Find Me', 'width=400,height=600');">JavaScript?</a><li>
+						<!-- <li><a href="javascript:window.open('https://www.wpsitework.com/JS_Location/', 'Find Me', 'width=400,height=600');">JavaScript?</a><li>
+						-->
 					</ul>
 				</div>
 			</div>
@@ -152,7 +153,7 @@
 					</a>
 				</div>
 			</div>
-			<p>Copyright © 2020 Kiger. All rights reserved</p>
+			<p>Copyright Â© 2020 Kiger. All rights reserved</p>
 		</div>
 	</section>
 	<!-- End Footer -->
@@ -160,3 +161,4 @@
 </body>
 
 </html>
+
