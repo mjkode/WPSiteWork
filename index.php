@@ -141,7 +141,7 @@
 				<div class="social-item">
 					<a href="#">
 						<a href="https://www.linkedin.com/in/michael-kiger-tech-minimalist">
-							<img src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" />
+							<img scr="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" />
 						</a>
 					</a>
 				</div>
@@ -154,6 +154,7 @@
 </body>
 
 </html>
+
 
 
 
