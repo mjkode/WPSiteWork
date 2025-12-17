@@ -140,8 +140,8 @@
 			<div class="social-icon">
 				<div class="social-item">
 					<a href="#">
-						<a href="https://www.linkedin.com/in/michael-kiger/">
-							<img src="https://img.icons8.com/ios-filled/344/facebook-new.png" />
+						<a href="https://www.linkedin.com/in/michael-kiger-tech-minimalist">
+							<img src="https://img.icons8.com/ios-filled/344/linkedin.png" />
 						</a>
 					</a>
 				</div>
@@ -161,4 +161,5 @@
 </body>
 
 </html>
+
 
